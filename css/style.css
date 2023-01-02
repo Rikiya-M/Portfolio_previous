@@ -477,6 +477,14 @@ header{
     top: 70px;
     background-color: #333333;
 }
+
+.name{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+	
+	
+	
 .wrapper{
     filter: drop-shadow(0 0 10px #000);
 }
