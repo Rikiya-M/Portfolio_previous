@@ -247,7 +247,7 @@ ul{
 
     .profile{
         width: 100%;
-        margin-bottom: 0px;
+        margin-bottom: 500px;
         font-size: 45px;
         position: relative;
         top: -50px;
@@ -255,6 +255,8 @@ ul{
 
     #aboutme{
         width: 100%;
+	position: absolute;
+        top: -150px;
     }
 
 
