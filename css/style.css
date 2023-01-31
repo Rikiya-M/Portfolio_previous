@@ -231,6 +231,8 @@ ul{
         .div10 { grid-area: 5 / 3 / 6 / 5; }
         .div11 { grid-area: 6 / 1 / 7 / 3; }
         .div12 { grid-area: 6 / 3 / 7 / 5; }
+        .div13 { grid-area: 7 / 1 / 8 / 3; }
+        .div14 { grid-area: 7 / 3 / 8 / 5; }
     .item{
         filter: opacity(50%);
         transition: .3s;
@@ -451,6 +453,8 @@ ul{
         .div9 { grid-area: 9 / 1 / 10 / 2; }
         .div10{ grid-area: 10 / 1 / 11 / 2; }
         .div11{ grid-area: 11 / 1 / 12/ 2 ; }
+	.div12{ grid-area: 12 / 1 / 13/ 2 ; }
+        .div13{ grid-area: 13 / 1 / 14/ 2 ; }
 
         .footer h1{
             font-size: 50px;
