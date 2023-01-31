@@ -456,7 +456,16 @@ ul{
         .div11{ grid-area: 11 / 1 / 12/ 2 ; }
 	.div12{ grid-area: 12 / 1 / 13/ 2 ; }
         .div13{ grid-area: 13 / 1 / 14/ 2 ; }
+	
+	
+        #aboutme{
+            width: 100%;
+            position: absolute;
+            top: -50px;
+            z-index: -1;
+        }
 
+	
         .footer h1{
             font-size: 50px;
         }
