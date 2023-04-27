@@ -35,7 +35,7 @@ header{
 .box{
   color: #fff;
   background-color: #fff;
-  padding: 0% 10% 10% 10%;
+  padding: 0%;
   display:flex;
   justify-content: center;
   align-items: center;
@@ -43,7 +43,7 @@ header{
 }
 
 .item{
-    width: 100%;
+    width: 80%;
     display:flex;
     justify-content: center;
     align-items: center;
