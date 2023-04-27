@@ -42,6 +42,13 @@ header{
   text-align: center;
 }
 
+.box a{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
 .item{
     width: 80%;
     display:flex;
